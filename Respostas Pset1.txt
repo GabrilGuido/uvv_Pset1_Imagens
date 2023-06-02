@@ -1,0 +1,31 @@
+Questão 01:
+O  output esperado de pixels: [29, 89, 136, 200], seria [226, 166, 119, 55] pois é cada número é subtraído por 255.
+
+Questão 02: = bluegillModificada.png
+
+Questão 03: 
+0.00 * 80 + -0.07 * 53 + 0.00 * 99 +
+-0.45 * 129 + 1.20 * 127 + -0.25 * 148 +
+0.00 * 175 + -0.12 * 174 + 0.00 * 193
+
+O que resulta em:
+
+0.00 + -3.71 + 0.00 +
+-58.05 + 152.40 + -37.00 +
+0.00 + -20.88 + 0.00
+
+Somamndo esses resultados para obter o resultado final:
+
+0.00 - 3.71 + 0.00 - 58.05 + 152.40 - 37.00 + 0.00 - 20.88 + 0.00 = 32.76
+
+
+Questão 04:
+
+= pigbirdModificada.png
+
+
+Questão 05:
+Não existe um kernel k único que possa ser usado para calcular a imagem nítida a partir de uma imagem borrada com uma única operação de correlação, pelo menos não sem usar técnicas complexas de otimização e possivelmente enfrentar problemas de mal condicionamento e artefatos de imagem.
+
+Questão 06:
+O kernel X atua para realçar as bordas horizontais, enquanto o kernel Y é empregado para destacar as bordas verticais.
